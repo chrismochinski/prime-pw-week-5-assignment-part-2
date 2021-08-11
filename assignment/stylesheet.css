@@ -1,0 +1,39 @@
+.header {
+  text-align: center;
+  color: #FFFFFF;
+  background-color: #621584;
+  border-style: double;
+  border-width: 25px;
+  font-family: verdana, sans-serif;
+}
+
+h1{
+  text-align: center;
+  font-size: 20px;
+  font-weight: 200;
+  font-family: verdana, sans-serif;
+  font-variant-caps: petite-caps;
+  margin-bottom: 5px;
+}
+
+h2{
+  font-size: 35px;
+  margin-top: 0px;
+  margin-bottom: 17px;
+}
+
+.footer {
+  padding: 1em;
+  text-align: center;
+  font-size: 15px;
+  background-color: #C8C8C8;
+  font-family: verdana, sans-serif;
+}
+
+body {
+  background-image: url("record.png");
+  background-repeat: repeat;
+  background-color: #F1B77B;
+  margin: 0;
+
+}
